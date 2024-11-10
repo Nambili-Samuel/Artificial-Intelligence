@@ -2,16 +2,11 @@
 
 **Artificial intelligence (AI)** is a technology that enables computers and machines to simulate human learning, comprehension, problem solving, decision making, creativity and autonomy. Applications and devices equipped with AI can see and identify objects. They can understand and respond to human language. They can learn from new information and experience. They can make detailed recommendations to users and experts. They can act independently, replacing the need for human intelligence or intervention (a classic example being a self-driving car). But in 2024, most AI researchers and practitioners—and most AI-related headlines—are focused on breakthroughs in generative AI (gen AI), a technology that can create original text, images, video and other content. To fully understand generative AI, it’s important to first understand the technologies on which generative AI tools are built: machine learning (ML) and deep learning.
 
-**Getting Started:** New customers receive $300 in free credits on Google Cloud to explore AI services.  
-* [Contact Sales](#)  
-* [Stay Informed](#)  
-* [Introduction to Generative AI](#)
-
 ---
 
-## Introduction to Generative AI
+## Machine learning
 
-**Artificial intelligence** is a field of science focused on creating machines that can reason, learn, and act as humans would or analyze data at scales beyond human capability. This broad discipline combines computer science, data analytics, engineering, linguistics, neuroscience, psychology, and philosophy.
+**Machine learning** Within AI, we have machine learning, which involves creating models by training an algorithm to make predictions or decisions based on data. It encompasses a broad range of techniques that enable computers to learn from and make inferences based on data without being explicitly programmed for specific tasks. There are many types of machine learning techniques or algorithms, including linear regression, logistic regression, decision trees, random forest, support vector machines (SVMs), k-nearest neighbor (KNN), clustering and more. Each of these approaches is suited to different kinds of problems and data.
 
 For businesses, AI often utilizes **machine learning** and **deep learning** for data analytics, predictions, object categorization, natural language processing, and intelligent data retrieval.
 
