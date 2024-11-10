@@ -28,16 +28,20 @@ Deep learning also enables:
 
 ---
 
-## Types of Artificial Intelligence
+## Generative AI
 
-AI can be categorized based on its development stages or functional capabilities:
+**Generative AI**, sometimes called **gen AI**, refers to deep learning models capable of creating complex, original content—such as long-form text, high-quality images, realistic video or audio, and more—in response to user prompts.
 
-1. **Reactive Machines:** Limited AI that responds to stimuli without learning from past data (e.g., IBM’s Deep Blue).
-2. **Limited Memory:** Most modern AI systems; they learn and improve through new data (e.g., deep learning).
-3. **Theory of Mind:** Hypothetical AI that could understand and react to human emotions.
-4. **Self-Aware AI:** A theoretical AI with human-like consciousness, which does not yet exist.
+At a high level, generative models encode a simplified representation of their training data, drawing from this representation to create new content that’s similar, but not identical, to the original data.
 
-Another categorization is **Artificial Narrow Intelligence (ANI)**, AI specialized in a single task (e.g., Google Search). Future possibilities include **Artificial General Intelligence (AGI)** and **Artificial Superintelligence (ASI)**, where AI could match or exceed human capabilities, though these do not currently exist.
+Generative models have long been used in statistics to analyze numerical data. However, over the last decade, they have evolved to analyze and generate complex data types, driven by the development of three advanced deep learning model types:
+
+- **[Variational Autoencoders (VAEs)](https://www.ibm.com/think/topics/variational-autoencoder)**, introduced in 2013, which enable models to generate multiple variations of content based on prompts or instructions.
+
+- **Diffusion Models**, first introduced in 2014, which add "noise" to images until they become unrecognizable, then remove the noise to generate original images based on user prompts.
+
+- **[Transformers](https://www.ibm.com/topics/transformer-model?mhsrc=ibmsearch_a&mhq=what%20is%20a%20transformer%20model%26quest%3B)**, trained on sequenced data to generate extended sequences (such as words in sentences, shapes in images, frames in video, or commands in code). Transformers power many of today’s most prominent generative AI tools, including ChatGPT and GPT-4, Copilot, BERT, Bard, and Midjourney.
+
 
 ---
 
