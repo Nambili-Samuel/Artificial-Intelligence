@@ -64,16 +64,15 @@ This training process is highly compute-intensive, time-consuming, and costly, r
 
 ---
 
+## Tunning
+
+Next, the model must be tuned to a specific content generation task. This can be done in various ways, including: Fine-tuning, which involves feeding the model application-specific labeled data—questions or prompts the application is likely to receive, and corresponding correct answers in the wanted format. Reinforcement learning with human feedback (RLHF), in which human users evaluate the accuracy or relevance of model outputs so that the model can improve itself. This can be as simple as having people type or talk back corrections to a chatbot or virtual assistant.
+
+Developers and users regularly assess the outputs of their generative AI apps, and further tune the model—even as often as once a week—for greater accuracy or relevance. In contrast, the foundation model itself is updated much less frequently, perhaps every year or 18 months.
+
+Another option for improving a gen AI app's performance is retrieval augmented generation (RAG), a technique for extending the foundation model to use relevant sources outside of the training data to refine the parameters for greater accuracy or relevance.
+
 ## Benefits of AI
-
-- **Automation:** AI can independently perform workflows and processes, like automating cybersecurity tasks.
-- **Reduced Human Error:** Consistent processes eliminate manual errors.
-- **Elimination of Repetitive Tasks:** Frees up human resources for high-impact work.
-- **Speed and Accuracy:** AI quickly processes and finds patterns in vast amounts of data.
-- **Infinite Availability:** AI operates continuously, unaffected by human limitations.
-- **Accelerated Research and Development:** Enables breakthroughs, such as in pharmaceuticals or genomics.
-
-## Solve Your Business Challenges with Google Cloud
 
 **New customers get $300 in free credits on Google Cloud.**  
 * [Get Started](#)  
