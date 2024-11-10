@@ -30,9 +30,7 @@ Deep learning also enables:
 
 ## Generative AI
 
-**Generative AI**, sometimes called **gen AI**, refers to deep learning models capable of creating complex, original content—such as long-form text, high-quality images, realistic video or audio, and more—in response to user prompts. At a high level, generative models encode a simplified representation of their training data, drawing from this representation to create new content that’s similar, but not identical, to the original data.
-
-Generative models have long been used in statistics to analyze numerical data. However, over the last decade, they have evolved to analyze and generate complex data types, driven by the development of three advanced deep learning model types:
+**Generative AI**, sometimes called **gen AI**, refers to deep learning models capable of creating complex, original content—such as long-form text, high-quality images, realistic video or audio, and more—in response to user prompts. At a high level, generative models encode a simplified representation of their training data, drawing from this representation to create new content that’s similar, but not identical, to the original data. Generative models have long been used in statistics to analyze numerical data. However, over the last decade, they have evolved to analyze and generate complex data types, driven by the development of three advanced deep learning model types:
 
 - **[Variational Autoencoders (VAEs)](https://www.ibm.com/think/topics/variational-autoencoder)**, introduced in 2013, which enable models to generate multiple variations of content based on prompts or instructions.
 
@@ -53,15 +51,16 @@ In general, **generative AI** operates in three phases:
 
 ---
 
-## Common Types of Artificial Neural Networks
+## Training
 
-Neural networks, loosely modeled on the human brain, are a primary AI architecture. Here are some commonly used types:
+Generative AI begins with a **foundation model**—a deep learning model that serves as a base for various generative AI applications.
 
-- **Feedforward Neural Networks (FF):** Data flows one-way through layers; often paired with **backpropagation** for error correction.
-- **Recurrent Neural Networks (RNN):** Uses memory to process time-sequence data, ideal for language processing.
-- **Long/Short-Term Memory (LSTM):** An advanced RNN type with memory cells for long-term dependencies, useful in speech recognition.
-- **Convolutional Neural Networks (CNN):** Common in image recognition, processes images through convolution and pooling layers to capture details.
-- **Generative Adversarial Networks (GAN):** Two competing networks (generator and discriminator) that improve output accuracy, used for creating realistic images and art.
+The most common foundation models today are **[large language models (LLMs)](https://www.ibm.com/topics/large-language-models)**, designed for text generation. However, foundation models also exist for image, video, sound or music generation, and even multimodal models that support multiple types of content.
+
+To create a foundation model, practitioners train a deep learning algorithm on vast volumes of raw, unstructured, and unlabeled data, such as terabytes or petabytes of text, images, or video from the internet. This training yields a **[neural network](https://www.ibm.com/topics/neural-networks)** with billions of **parameters**—encoded representations of entities, patterns, and relationships within the data—enabling it to generate content autonomously in response to prompts.
+
+This training process is highly compute-intensive, time-consuming, and costly, requiring thousands of clustered graphics processing units (GPUs) and several weeks to complete, often costing millions of dollars. **Open source foundation model projects**, such as Meta’s Llama-2, allow generative AI developers to bypass this costly step.
+
 
 ---
 
