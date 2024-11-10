@@ -1,5 +1,7 @@
 # What is Artificial Intelligence (AI)?
 
+![Image Description](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Cd9OPlBfhoiohbzhYtbOdlC3kuMQVNTPbyYsL2ocItAO6u6ataBv2NfHuLGzkOtmrGYSPkxoiEjfBlNKw0OPdI37ldFBJLEi5UDQyvu4blWxqrMmKF5Dqip79mthRKSnNIkVQbDfjCScd08ZDkKG_PqwGKi3-ncEi1D1EC_G-mycqL0i3ntP2_1i4rzt/s16000/AI.webp)
+
 **Artificial intelligence (AI)** is a technology that enables computers and machines to simulate human learning, comprehension, problem solving, decision making, creativity and autonomy. Applications and devices equipped with AI can see and identify objects. They can understand and respond to human language. They can learn from new information and experience. They can make detailed recommendations to users and experts. They can act independently, replacing the need for human intelligence or intervention (a classic example being a self-driving car). But in 2024, most AI researchers and practitioners—and most AI-related headlines—are focused on breakthroughs in generative AI (gen AI), a technology that can create original text, images, video and other content. To fully understand generative AI, it’s important to first understand the technologies on which generative AI tools are built: machine learning (ML) and deep learning.
 
 ---
