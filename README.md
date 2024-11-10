@@ -15,19 +15,16 @@ The simplest form of machine learning is called supervised learning, which invol
 
 ### Deep learning
 
-**Deep learning** is a subset of machine learning that utilizes multilayered neural networks, known as **deep neural networks**, which more closely simulate the complex decision-making capabilities of the human brain.
+**Deep learning** is a subset of machine learning that utilizes multilayered neural networks, known as **deep neural networks**, which more closely simulate the complex decision-making capabilities of the human brain. Deep neural networks comprise an **input layer**, multiple **hidden layers** (typically three or more, but often hundreds), and an **output layer**. This architecture differs from neural networks in classic machine learning, which generally include only one or two hidden layers.
 
-Deep neural networks comprise an **input layer**, multiple **hidden layers** (typically three or more, but often hundreds), and an **output layer**. This architecture differs from neural networks in classic machine learning, which generally include only one or two hidden layers.
+These multiple layers enable [unsupervised learning](https://www.ibm.com/topics/unsupervised-learning): they can autonomously extract features from large, unlabeled, and unstructured datasets and make independent predictions about the data's content. Since deep learning minimizes the need for human intervention, it supports machine learning on a massive scale. Deep learning is particularly effective for tasks like [natural language processing (NLP)](https://www.ibm.com/topics/natural-language-processing) and [computer vision](https://www.ibm.com/topics/computer-vision), where fast and accurate pattern recognition in vast datasets is essential. Today, some form of deep learning drives most of the AI applications we encounter.
 
-These multiple layers enable [unsupervised learning](https://www.ibm.com/topics/unsupervised-learning): they can autonomously extract features from large, unlabeled, and unstructured datasets and make independent predictions about the data's content.
+Deep learning also enables:
 
-Since deep learning minimizes the need for human intervention, it supports machine learning on a massive scale. Deep learning is particularly effective for tasks like [natural language processing (NLP)](https://www.ibm.com/topics/natural-language-processing) and [computer vision](https://www.ibm.com/topics/computer-vision), where fast and accurate pattern recognition in vast datasets is essential. Today, some form of deep learning drives most of the AI applications we encounter.
+- [Semi-supervised learning](https://www.ibm.com/topics/semi-supervised-learning), which combines supervised and unsupervised learning by using both labeled and unlabeled data to train AI models for classification and regression tasks.
 
+- [Self-supervised learning](https://www.ibm.com/topics/self-supervised-learning), which generates implicit labels from unstructured data, enabling the model to learn without the need for extensive human-labeled datasets.
 
-- **Machine Learning (ML):** Algorithms trained on data to predict or categorize information.
-- **Deep Learning:** Uses neural networks with multiple layers to process information, mimicking the human brain's structure, and allowing AI to excel at tasks like image recognition and language translation.
-
-**Get Started with AI:** Check out our [Beginner’s Introduction to Generative AI](#).
 
 ---
 
