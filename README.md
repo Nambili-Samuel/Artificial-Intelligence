@@ -30,9 +30,7 @@ Deep learning also enables:
 
 ## Generative AI
 
-**Generative AI**, sometimes called **gen AI**, refers to deep learning models capable of creating complex, original content—such as long-form text, high-quality images, realistic video or audio, and more—in response to user prompts.
-
-At a high level, generative models encode a simplified representation of their training data, drawing from this representation to create new content that’s similar, but not identical, to the original data.
+**Generative AI**, sometimes called **gen AI**, refers to deep learning models capable of creating complex, original content—such as long-form text, high-quality images, realistic video or audio, and more—in response to user prompts. At a high level, generative models encode a simplified representation of their training data, drawing from this representation to create new content that’s similar, but not identical, to the original data.
 
 Generative models have long been used in statistics to analyze numerical data. However, over the last decade, they have evolved to analyze and generate complex data types, driven by the development of three advanced deep learning model types:
 
@@ -45,14 +43,13 @@ Generative models have long been used in statistics to analyze numerical data. H
 
 ---
 
-## Artificial Intelligence Training Models
+## How generative AI works
 
-AI training often relies on **training data**:
+In general, **generative AI** operates in three phases:
 
-1. **Supervised Learning:** Maps specific inputs to outputs using labeled data (e.g., recognizing images of cats).
-2. **Unsupervised Learning:** Finds patterns in unlabeled data, useful for descriptive modeling.
-3. **Semi-Supervised Learning:** Combines labeled and unlabeled data for improved results.
-4. **Reinforcement Learning:** An agent learns by trial and error, receiving feedback to improve performance.
+1. **Training** – Building a foundation model by training on large datasets.
+2. **Tuning** – Adapting the model for specific applications.
+3. **Generation, Evaluation, and Further Tuning** – Generating outputs, evaluating results, and iteratively tuning to improve accuracy.
 
 ---
 
