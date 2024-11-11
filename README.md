@@ -7,7 +7,7 @@
 AI systems can operate independently, reducing the need for human intervention—a classic example being a self-driving car. However, in 2024, much of the AI community and AI-related innovations focus on breakthroughs in [generative AI](https://www.nvidia.com/en-us/glossary/generative-ai/) (gen AI), which can create original content like text, images, and videos. To understand generative AI, it’s helpful first to understand the foundational technologies of [machine learning](https://www.ibm.com/topics/machine-learning) (ML) and [deep learning](https://www.deeplearning.ai/), which underpin these tools. AI can also be categorized based on the methods used for training models. Below are the common types of learning techniques in AI:
 
 ### 1. Supervised Learning:
-- **Definition**: In supervised learning, the AI model is trained using labeled data, where the input data is paired with the correct output. The model learns by comparing its predictions to the actual outcomes and adjusts based on errors.
+- **Definition**: In [Supervised learning](https://cloud.google.com/discover/what-is-supervised-learning?hl=en), the AI model is trained using labeled data, where the input data is paired with the correct output. The model learns by comparing its predictions to the actual outcomes and adjusts based on errors.
 - **Examples**: Spam email classification, image recognition (e.g., identifying cats vs. dogs), and regression tasks like predicting house prices.
 - **Use Case**: It's ideal for problems where the desired output is known and available, and the goal is to learn a mapping from inputs to outputs.
 
@@ -17,7 +17,7 @@ AI systems can operate independently, reducing the need for human intervention�
 - **Use Case**: It’s useful when you have large amounts of unlabelled data and want to find underlying structures or groupings.
 
 ### 3. Semi-Supervised Learning:
-- **Definition**: Semi-supervised learning is a hybrid approach where the model is trained on a combination of a small amount of labeled data and a large amount of unlabeled data. It leverages the strengths of both supervised and unsupervised learning.
+- **Definition**: [Semi-supervised learning](https://www.ibm.com/topics/semi-supervised-learning) is a hybrid approach where the model is trained on a combination of a small amount of labeled data and a large amount of unlabeled data. It leverages the strengths of both supervised and unsupervised learning.
 - **Examples**: Labeling web pages, facial recognition (using few labeled examples), and medical image classification where labeled data is scarce but unlabeled data is abundant.
 - **Use Case**: This is helpful when acquiring labeled data is expensive or time-consuming.
 
@@ -27,7 +27,7 @@ AI systems can operate independently, reducing the need for human intervention�
 - **Use Case**: It’s suitable for tasks where an agent needs to make a series of decisions to achieve long-term goals in dynamic environments.
 
 ### 5. Self-Supervised Learning:
-- **Definition**: Self-supervised learning is a form of unsupervised learning where the system generates its own labels from the input data. This approach can be thought of as a way for the model to learn from the data without needing external labeling.
+- **Definition**: [Self-supervised learning](https://www.ibm.com/topics/self-supervised-learning) is a form of unsupervised learning where the system generates its own labels from the input data. This approach can be thought of as a way for the model to learn from the data without needing external labeling.
 - **Examples**: Language models (e.g., GPT, BERT) that learn to predict the next word in a sentence based on context, or predicting missing parts of images.
 - **Use Case**: It’s gaining popularity for tasks like natural language processing and computer vision where labeled data is limited.
 
@@ -59,13 +59,6 @@ The simplest form of machine learning is called supervised learning, which invol
 **Deep learning** is a subset of machine learning that utilizes multilayered neural networks, known as **deep neural networks**, which more closely simulate the complex decision-making capabilities of the human brain. Deep neural networks comprise an **input layer**, multiple **hidden layers** (typically three or more, but often hundreds), and an **output layer**. This architecture differs from neural networks in classic machine learning, which generally include only one or two hidden layers.
 
 These multiple layers enable [unsupervised learning](https://www.ibm.com/topics/unsupervised-learning): they can autonomously extract features from large, unlabeled, and unstructured datasets and make independent predictions about the data's content. Since deep learning minimizes the need for human intervention, it supports machine learning on a massive scale. Deep learning is particularly effective for tasks like [natural language processing (NLP)](https://www.ibm.com/topics/natural-language-processing) and [computer vision](https://www.ibm.com/topics/computer-vision), where fast and accurate pattern recognition in vast datasets is essential. Today, some form of deep learning drives most of the AI applications we encounter.
-
-Deep learning also enables:
-
-- [Semi-supervised learning](https://www.ibm.com/topics/semi-supervised-learning), which combines supervised and unsupervised learning by using both labeled and unlabeled data to train AI models for classification and regression tasks.
-
-- [Self-supervised learning](https://www.ibm.com/topics/self-supervised-learning), which generates implicit labels from unstructured data, enabling the model to learn without the need for extensive human-labeled datasets.
-
 
 ---
 
