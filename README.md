@@ -4,8 +4,34 @@
 
 [Artificial intelligence (AI)](https://cloud.google.com/learn/what-is-artificial-intelligence?hl=en) is a technology that enables computers and machines to simulate human capabilities such as learning, comprehension, problem-solving, decision-making, creativity, and autonomy. AI-powered applications and devices like [Amazon Alexa](https://alexa.amazon.com/), Apple’s [Siri](https://www.apple.com/siri/), [Google Assistant](https://assistant.google.com/), and Microsoft’s [Cortana](https://support.microsoft.com/en-us/topic/end-of-support-for-cortana-d025b39f-ee5b-4836-a954-0ab646ee1efa) can interact with users, recognize objects, understand and respond to human language, and adapt based on new information to improve user experience.
 
-AI systems can operate independently, reducing the need for human intervention—a classic example being a self-driving car. However, in 2024, much of the AI community and AI-related innovations focus on breakthroughs in [generative AI](https://www.nvidia.com/en-us/glossary/generative-ai/) (gen AI), which can create original content like text, images, and videos. To understand generative AI, it’s helpful first to understand the foundational technologies of [machine learning](https://www.ibm.com/topics/machine-learning) (ML) and [deep learning](https://www.deeplearning.ai/), which underpin these tools.
+AI systems can operate independently, reducing the need for human intervention—a classic example being a self-driving car. However, in 2024, much of the AI community and AI-related innovations focus on breakthroughs in [generative AI](https://www.nvidia.com/en-us/glossary/generative-ai/) (gen AI), which can create original content like text, images, and videos. To understand generative AI, it’s helpful first to understand the foundational technologies of [machine learning](https://www.ibm.com/topics/machine-learning) (ML) and [deep learning](https://www.deeplearning.ai/), which underpin these tools. AI can also be categorized based on the methods used for training models. Below are the common types of learning techniques in AI:
 
+### 1. Supervised Learning:
+- **Definition**: In supervised learning, the AI model is trained using labeled data, where the input data is paired with the correct output. The model learns by comparing its predictions to the actual outcomes and adjusts based on errors.
+- **Examples**: Spam email classification, image recognition (e.g., identifying cats vs. dogs), and regression tasks like predicting house prices.
+- **Use Case**: It's ideal for problems where the desired output is known and available, and the goal is to learn a mapping from inputs to outputs.
+
+### 2. Unsupervised Learning:
+- **Definition**: Unsupervised learning involves training a model on data that has no labels. The AI attempts to find hidden patterns or structures in the data without any explicit guidance on what the outputs should be.
+- **Examples**: Clustering (e.g., customer segmentation), dimensionality reduction (e.g., PCA), and anomaly detection (e.g., fraud detection).
+- **Use Case**: It’s useful when you have large amounts of unlabelled data and want to find underlying structures or groupings.
+
+### 3. Semi-Supervised Learning:
+- **Definition**: Semi-supervised learning is a hybrid approach where the model is trained on a combination of a small amount of labeled data and a large amount of unlabeled data. It leverages the strengths of both supervised and unsupervised learning.
+- **Examples**: Labeling web pages, facial recognition (using few labeled examples), and medical image classification where labeled data is scarce but unlabeled data is abundant.
+- **Use Case**: This is helpful when acquiring labeled data is expensive or time-consuming.
+
+### 4. Reinforcement Learning:
+- **Definition**: In reinforcement learning, an agent learns to make decisions by interacting with an environment. It receives feedback in the form of rewards or penalties based on the actions it takes and aims to maximize its cumulative reward over time.
+- **Examples**: Game-playing AI (e.g., AlphaGo), robotic control, self-driving cars, and recommendation systems.
+- **Use Case**: It’s suitable for tasks where an agent needs to make a series of decisions to achieve long-term goals in dynamic environments.
+
+### 5. Self-Supervised Learning:
+- **Definition**: Self-supervised learning is a form of unsupervised learning where the system generates its own labels from the input data. This approach can be thought of as a way for the model to learn from the data without needing external labeling.
+- **Examples**: Language models (e.g., GPT, BERT) that learn to predict the next word in a sentence based on context, or predicting missing parts of images.
+- **Use Case**: It’s gaining popularity for tasks like natural language processing and computer vision where labeled data is limited.
+
+These learning techniques form the basis of how AI systems are trained and can be combined or adapted to suit different types of problems.
 
 ---
 
