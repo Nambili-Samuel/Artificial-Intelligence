@@ -157,7 +157,7 @@ Machine learning and deep learning algorithms help identify fraudulent transacti
 
 AI-driven recruitment platforms streamline hiring by automating resume screening, matching candidates to job descriptions, and even conducting preliminary interviews using video analysis. These tools significantly reduce administrative workload, shorten response times, and improve the overall candidate experience. AI models analyze data from sensors, IoT devices, and operational technology (OT) to predict maintenance needs and anticipate equipment failures. This AI-powered preventive maintenance helps reduce downtime and ensures the business stays ahead of potential supply chain disruptions that could impact operations.
 
-1. [What is Artificial Intelligence (AI)? - Google Cloud](https://cloud.google.com/learn/what-is-artificial-intelligence?hl=en)
+1. [What is Artificial Intelligence (AI)? - Google Cloud] https://cloud.google.com/learn/what-is-artificial-intelligence?hl=en
 2. [Introduction to Machine Learning - IBM](https://www.ibm.com/topics/machine-learning)
 3. [Deep Learning Specialization - Coursera (by Andrew Ng)](https://www.coursera.org/specializations/deep-learning)
 4. [Artificial Neural Network (ANN) Overview - ScienceDirect](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/artificial-neural-network)
