@@ -41,6 +41,7 @@ Within AI, we have **machine learning**, a subfield of artificial intelligence t
 
 The goal of AI is to create computer models that exhibit intelligent behaviors like humans, according to [Boris Katz](https://www.csail.mit.edu/person/boris-katz), an AI researcher and leader of the InfoLab Group at CSAIL, machines can recognize a visual scene, and understand the text written or natural language in the physical world.
 
+![Image Description](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOdccxJxUaTRv7C92tt5x-yC88FEW23K_gIsJ2Z9C_2cmjymWwIE2gNcocW4RFEPYZ6So2q5R2kl-JYKPx-MnFUv-sj7y8LGSEvgqkbNgQXVlK_S8VVewS7l8vcZoX7L6I2_RvommpVCt9MN-KojUg-q-tchzVJseTPkejcfpoDzhgq_ulPiRzsdehaRlm/s16000/rpqrCoZ.png)
 
 However one of the most popular types of machine learning algorithms is called a neural network (or artificial neural network). Neural networks are modeled after the human brain's structure and function. A neural network consists of interconnected layers of nodes (analogous to neurons) that work together to process and analyze complex data. Neural networks are well suited to tasks that involve identifying complex patterns and relationships in large amounts of data.
 
