@@ -41,9 +41,15 @@ Within AI, we have **machine learning**, a subfield of artificial intelligence t
 
 The goal of AI is to create computer models that exhibit intelligent behaviors like humans, according to [Boris Katz](https://www.csail.mit.edu/person/boris-katz), an AI researcher and leader of the InfoLab Group at CSAIL, machines can recognize a visual scene, and understand the text written or natural language in the physical world.
 
-![Image Description](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOdccxJxUaTRv7C92tt5x-yC88FEW23K_gIsJ2Z9C_2cmjymWwIE2gNcocW4RFEPYZ6So2q5R2kl-JYKPx-MnFUv-sj7y8LGSEvgqkbNgQXVlK_S8VVewS7l8vcZoX7L6I2_RvommpVCt9MN-KojUg-q-tchzVJseTPkejcfpoDzhgq_ulPiRzsdehaRlm/s16000/rpqrCoZ.png)
+One of the most widely used types of machine learning algorithms is the neural network, or [artificial neural network (ANN)](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/artificial-neural-network). Inspired by the structure and function of the human brain, ANNs consist of interconnected layers of nodes, or "neurons." These networks typically include three types of layers:
 
-However one of the most popular types of machine learning algorithms is called a neural network (or artificial neural network). Neural networks are modeled after the human brain's structure and function. A neural network consists of interconnected layers of nodes (analogous to neurons) that work together to process and analyze complex data. Neural networks are well suited to tasks that involve identifying complex patterns and relationships in large amounts of data.
+- The **input layer**, which receives raw data.
+- One or more **hidden layers**, where the network processes and transforms information.
+- The **output layer**, which produces the final prediction or classification.
+
+Each layer in the network is densely connected to the next, allowing the model to learn complex relationships within data by adjusting the connections between nodes through training. Hidden layers are critical, as they enable the network to capture intricate, non-linear patterns essential for tasks like image and speech recognition, language translation, and other data-intensive applications. This layered architecture, combined with vast data and computational power, makes neural networks highly effective for pattern recognition and predictive analytics.
+
+![Image Description](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOdccxJxUaTRv7C92tt5x-yC88FEW23K_gIsJ2Z9C_2cmjymWwIE2gNcocW4RFEPYZ6So2q5R2kl-JYKPx-MnFUv-sj7y8LGSEvgqkbNgQXVlK_S8VVewS7l8vcZoX7L6I2_RvommpVCt9MN-KojUg-q-tchzVJseTPkejcfpoDzhgq_ulPiRzsdehaRlm/s16000/rpqrCoZ.png)
 
 The simplest form of machine learning is called supervised learning, which involves the use of labeled data sets to train algorithms to classify data or predict outcomes accurately. In supervised learning, humans pair each training example with an output label. The goal is for the model to learn the mapping between inputs and outputs in the training data, so it can predict the labels of new, unseen data.
 
