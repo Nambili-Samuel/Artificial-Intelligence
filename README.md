@@ -11,9 +11,9 @@ AI systems can operate independently, reducing the need for human interventionâ€
 
 ## Machine learning
 
-Within AI, we have **machine learning** a subfield of artificial intelligence that gives computers the ability to learn without explicitly being programmed for specific tasks. There are many types of machine learning techniques or algorithms, including linear regression, logistic regression, decision trees, random forest, support vector machines (SVMs), k-nearest neighbor (KNN), clustering and more. Each of these approaches is suited to different kinds of problems and data.
+Within AI, we have **machine learning**, a subfield of artificial intelligence that gives computers the ability to learn without explicitly being programmed for specific tasks. There are many types of machine learning techniques or algorithms, including linear regression, logistic regression, decision trees, random forests, support vector machines (SVMs), k-nearest neighbors (KNN), clustering, and more. Each of these approaches is suited to different kinds of problems and data.
 
-<p>The goal of AI is to create computer models that exhibit intelligent behaviors like humans, according to [Boris Katz](https://www.csail.mit.edu/person/boris-katz), a principal research scientist and head of the InfoLab Group at CSAIL. This means machines that can recognize a visual scene, understand a text written in natural language, or perform an action in the physical world.</p>
+The goal of AI is to create computer models that exhibit intelligent behaviors like humans, according to [Boris Katz](https://www.csail.mit.edu/person/boris-katz), a principal research scientist and head of the InfoLab Group at CSAIL. This means machines that can recognize a visual scene, understand text written in natural language, or perform an action in the physical world.
 
 
 But one of the most popular types of machine learning algorithm is called a neural network (or artificial neural network). Neural networks are modeled after the human brain's structure and function. A neural network consists of interconnected layers of nodes (analogous to neurons) that work together to process and analyze complex data. Neural networks are well suited to tasks that involve identifying complex patterns and relationships in large amounts of data.
