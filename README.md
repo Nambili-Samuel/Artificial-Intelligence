@@ -11,12 +11,12 @@ AI systems can operate independently, reducing the need for human interventionâ€
 
 ## Machine learning
 
-Within AI, we have **machine learning**, a subfield of artificial intelligence that gives computers the ability to learn without explicitly being programmed for specific tasks. There are many types of machine learning techniques or algorithms, including linear regression, logistic regression, decision trees, random forests, support vector machines (SVMs), k-nearest neighbors (KNN), clustering, and more. Each of these approaches is suited to different kinds of problems and data.
+Within AI, we have **machine learning**, a subfield of artificial intelligence that gives computers the ability to learn without explicitly being programmed for specific tasks. There are many types of machine learning techniques or algorithms, including linear regression, logistic regression, decision trees, random forests, support vector machines (SVMs), [k-nearest neighbors (KNN)](https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn), clustering, and more. Each of these approaches is suited to different kinds of problems and data.
 
 The goal of AI is to create computer models that exhibit intelligent behaviors like humans, according to [Boris Katz](https://www.csail.mit.edu/person/boris-katz), an AI researcher and leader of the InfoLab Group at CSAIL, machines can recognize a visual scene, and understand the text written or natural language in the physical world.
 
 
-But one of the most popular types of machine learning algorithms is called a neural network (or artificial neural network). Neural networks are modeled after the human brain's structure and function. A neural network consists of interconnected layers of nodes (analogous to neurons) that work together to process and analyze complex data. Neural networks are well suited to tasks that involve identifying complex patterns and relationships in large amounts of data.
+However one of the most popular types of machine learning algorithms is called a neural network (or artificial neural network). Neural networks are modeled after the human brain's structure and function. A neural network consists of interconnected layers of nodes (analogous to neurons) that work together to process and analyze complex data. Neural networks are well suited to tasks that involve identifying complex patterns and relationships in large amounts of data.
 
 The simplest form of machine learning is called supervised learning, which involves the use of labeled data sets to train algorithms to classify data or predict outcomes accurately. In supervised learning, humans pair each training example with an output label. The goal is for the model to learn the mapping between inputs and outputs in the training data, so it can predict the labels of new, unseen data.
 
