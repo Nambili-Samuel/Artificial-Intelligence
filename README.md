@@ -6,6 +6,10 @@
 
 AI systems can operate independently, reducing the need for human intervention—a classic example being a self-driving car. However, in 2024, much of the AI community and AI-related innovations focus on breakthroughs in [generative AI](https://www.nvidia.com/en-us/glossary/generative-ai/) (gen AI), which can create original content like text, images, and videos. To understand generative AI, it’s helpful first to understand the foundational technologies of [machine learning](https://www.ibm.com/topics/machine-learning) (ML) and [deep learning](https://www.deeplearning.ai/), which underpin these tools.
 
+<video width="600" controls>
+  <source src="https://www.youtube.com/watch?v=QhcyRUZmEm4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
