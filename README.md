@@ -165,9 +165,3 @@ We have listed some of the best institutions to learn artificial intelligence (A
 
 
 ![Image Description](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmnH3IpMVQIyp66Zcb04SbpR-61MPT6CcGAsadw8CJEy3L0Q0DwfKpjCNT4RwEq4_CfiVM84uqxmx_ZMI7-HL_rIXJ4YeWnsUGAgaHRYTCgDd588rM3vXoE5TezuUfP32-0FAWP5J-gXfT6da2AwZrDnCtx9hFRx0DE7iFkj2so9I-3zB0IlsY0MWVRPys/s16000/logoimg1.png)
-
-
-# Wiki Navigation
-- [Home](Home)
-- [Page 1](Page-1)
-- [Page 2](Page-2)
