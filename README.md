@@ -1,6 +1,7 @@
 # What is Artificial Intelligence (AI)?
 
 ![Image Description](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Cd9OPlBfhoiohbzhYtbOdlC3kuMQVNTPbyYsL2ocItAO6u6ataBv2NfHuLGzkOtmrGYSPkxoiEjfBlNKw0OPdI37ldFBJLEi5UDQyvu4blWxqrMmKF5Dqip79mthRKSnNIkVQbDfjCScd08ZDkKG_PqwGKi3-ncEi1D1EC_G-mycqL0i3ntP2_1i4rzt/s16000/AI.webp)
+*Artificial intelligence (AI) is a technology that enables computers and machines to mimic human intelligence.*
 
 [Artificial intelligence (AI)](https://cloud.google.com/learn/what-is-artificial-intelligence?hl=en) is a technology that enables computers and machines to simulate human capabilities such as learning, comprehension, problem-solving, decision-making, creativity, and autonomy. AI-powered applications and devices like [Amazon Alexa](https://alexa.amazon.com/), Apple’s [Siri](https://www.apple.com/siri/), [Google Assistant](https://assistant.google.com/), and Microsoft’s [Cortana](https://support.microsoft.com/en-us/topic/end-of-support-for-cortana-d025b39f-ee5b-4836-a954-0ab646ee1efa) can interact with users, recognize objects, understand and respond to human language, and adapt based on new information to improve user experience.
 
